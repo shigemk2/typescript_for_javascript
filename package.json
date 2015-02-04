@@ -1,0 +1,22 @@
+{
+  "name": "typescript_for_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greeter.js",
+  "dependencies": {
+    "typescript": "^1.4.1"
+  },
+ "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shigemk2/typescript_for_javascript.git"
+  },
+  "author": "shigemk2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shigemk2/typescript_for_javascript/issues"
+  },
+  "homepage": "https://github.com/shigemk2/typescript_for_javascript"
+}
