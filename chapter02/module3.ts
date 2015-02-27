@@ -13,3 +13,10 @@ module AnotherModule2 {
     export function f() { console.log(s.a); };
 }
 AnotherModule2.f();
+
+// 別モジュールへのアクセス3
+module AnotherModule3 {
+    import s = TooLongName.a;
+    export function f() { console.log(s); };
+}
+AnotherModule3.f();
