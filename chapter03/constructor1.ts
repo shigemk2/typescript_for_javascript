@@ -1,4 +1,4 @@
 class A {
-    constructor(public msg: string) {
-    }
-}
+    constructor(public msg: string) {                      
+    }                
+}                
